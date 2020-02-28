@@ -8,7 +8,7 @@ Depth first search the enite HTML page and saves only the valid HTML elements.
 
 # Requirements
 
-- NodeJS
+- nodejs
 - request
 - request-promise
 - node-html-parser
