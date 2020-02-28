@@ -13,12 +13,23 @@ Depth first search the enite HTML page and saves only the valid HTML elements.
 - request-promise
 - node-html-parser
 
-# Usage
+# Setup
+
+This is a Node.js module available through the npm registry.<br>
+Before installing, download and install nodejs and npm.
+
+`npm install quickjson`
+
+# Quick Start
 
 Initialize the module:
 
-`const scraper = require('scraper');`
+`const quickjson = require('quickjson');`
 
 Use the toJSON method passing a valid URL:
 
-`const json = scraper.toJSON('your url here')`
+`const json = quickjson.toJSON('your url here')`
+
+# License
+
+[LICENSE](LICENSE)
