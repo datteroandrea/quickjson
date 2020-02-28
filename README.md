@@ -1,4 +1,4 @@
-# Scraper
+# quickjson
 
 Turns an HTML page to a JSON
 
@@ -7,6 +7,8 @@ Turns an HTML page to a JSON
 Depth first search the enite HTML page and saves only the valid HTML elements.
 
 # Requirements
+
+These are the requirements needed to install and use the package:
 
 - nodejs
 - request
