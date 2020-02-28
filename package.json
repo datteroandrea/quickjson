@@ -1,0 +1,29 @@
+{
+  "name": "quickjson",
+  "version": "2.0.0",
+  "description": "Generates a JSON from an HTML document useful to make APIs.",
+  "main": "quickjson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/datteroandrea/scraper.git"
+  },
+  "keywords": [
+    "html",
+    "json",
+    "apis"
+  ],
+  "author": "datteroandrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/datteroandrea/scraper/issues"
+  },
+  "homepage": "https://github.com/datteroandrea/scraper#readme",
+  "dependencies": {
+    "node-html-parser": "^1.2.7",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
