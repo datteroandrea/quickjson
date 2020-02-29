@@ -1,4 +1,4 @@
-# quickjson
+# Quickjson
 
 Turns an HTML page to a JSON
 
